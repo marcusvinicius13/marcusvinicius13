@@ -1,16 +1,20 @@
-### Hi there 👋
+### Marcus Vinícius 
 
-<!--
-**marcusvinicius13/marcusvinicius13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá sou Marcus Vinícius, Desenvolvedor de sistemas, atuante a 7 anos no mercado de soluções voltadas aos clientes, atuo como desenvolvedor Java, Angular, React, NodeJS.
 
-Here are some ideas to get you started:
+### Aqui está alguns links úteis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Link do meu Linkedin : https://www.linkedin.com/in/marcus-vinicius-71255b5a/
+
+
+
+
+
+
+
+
+
+
+
+
+##### Vamos nos conectar ? 👋
